@@ -85,6 +85,7 @@ Example
 ````
 
 After entering screen, use hot key to enter command
+
 Hot key                       | Description
 ------------------------------|------------------------
 Ctrl + A + D                  | detach current screen
